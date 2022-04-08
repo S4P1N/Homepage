@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SornDekD</string>
+    <string name="animal">สัตว์</string>
+    <string name="fruit">ผลไม้</string>
+    <string name="vegetable">ผัก</string>
+    <string name="serch_element">ค้นหาที่นี่</string>
+    <string name="int_less">บทเรียนที่น่าสนใจ</string>
+
+</resources>
